@@ -1,0 +1,22 @@
+{
+  "name": "yangge-assistant-frontend",
+  "version": "1.0.0",
+  "description": "阳哥小助手 - AI编程学习和求职面试助手",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite": "^4.4.9"
+  },
+  "keywords": ["vue3", "ai", "chat", "assistant"],
+  "author": "Yang Ge Assistant Team",
+  "license": "MIT"
+}
